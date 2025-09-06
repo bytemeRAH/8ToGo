@@ -2,7 +2,7 @@
 
 **8ToGo!** is a custom Linux distribution built for **learning, coding, and experimenting**.  
 It’s designed with Python, Go, and JavaScript developers in mind, remixing existing open-source projects and tweaking them into a unique, coder-friendly environment. 
-DISCLAMER: do not download this repository "8ToGo!" is still im development and being worked on 
+## DISCLAMER: do not download this repository "8ToGo!" is still im development and being worked on 
 
 > Everything was made by **m3g4byt3s** 💻  
 
