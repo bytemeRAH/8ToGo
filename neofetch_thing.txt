@@ -1,0 +1,16 @@
+$$$$$$$$$$$$$        user@hostname
+$###########$        ----------------
+$#         #$        OS: 8ToGo Linux
+$#         #$        Host: YourDevice
+$#         #$        Kernel: x.x.x
+$#         #$        Uptime: 0h 00m
+$###########$        Packages: 0000
+$###########$        Shell: bash/zsh
+$#         #$        Resolution: 192
+$#         #$        DE/WM: YourWM
+$#         #$        Theme: YourTheme
+$#         #$        Icons: YourIcons
+$###########$        Terminal: YourTerm
+$$$$$$$$$$$$$        CPU: YourCPU
+                     GPU: YourGPU
+                     RAM: 0GB / 0GB
