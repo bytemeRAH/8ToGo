@@ -1,1 +1,9 @@
-still under development vro
+prints text: 
+echo "urtext"
+(will say: urtext) 
+
+change theme:
+set theme 8tg-def.etgth
+(this will set the theme to the default theme) 
+(the .etgth is a theme file format for 8togo) 
+
